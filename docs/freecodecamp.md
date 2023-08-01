@@ -21,7 +21,7 @@ This is an intermediate full stack software development project that requires so
 
 I've carefully divided the project into sections to ensure that you can easily select the phase that is important to you in case you do not wish to code the full application.
 
-You can download the full repository on [My Github here](https://github.com/stephensanwo/fullstack-ai-chatbot).
+You can download the full repository on [My Github here]([(https://github.com/vikasharma005/Fullstack-AI-Chatbot)]).
 
 ## Table of Contents
 
@@ -1610,15 +1610,6 @@ If the socket is still open, this response is sent. If the socket is closed, we 
 
 Congratulations on getting this far! You have been able to build a working chat system.
 
-In follow-up articles, I will focus on building a chat user interface for the client, creating unit and functional tests, fine-tuning our worker environment for faster response time with WebSockets and asynchronous requests, and ultimately deploying the chat application on AWS.
+**You can download the full repository on [My Github Repository]([(https://github.com/vikasharma005/Fullstack-AI-Chatbot)])**
 
-This Article is part of a series on building full-stack intelligent chatbots with tools like Python, React, Huggingface, Redis, and so on. You can follow the full series on my blog: [blog.stephensanwo.dev - AI ChatBot Series](https://blog.stephensanwo.dev/series/build-ai-chatbot)\*\*
 
-**You can download the full repository on [My Github Repository](https://github.com/stephensanwo/fullstack-ai-chatbot)**
-
-I wrote this tutorial in collaboration with Redis. Need help getting started with Redis? Try the following resources:
-
-- [Try Redis Cloud free of charge](https://redis.info/3NBGJRT)
-- [Watch this video on the benefits of Redis Cloud over other Redis providers](https://redis.info/3Ga9YII)
-- [Redis Developer Hub - tools, guides, and tutorials about Redis](https://redis.info/3LC4GqB)
-- [RedisInsight Desktop GUI](https://redis.info/3wMR7PR)
